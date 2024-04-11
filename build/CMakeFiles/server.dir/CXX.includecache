@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivan/Projects/cpp_server/cool_sockets.h
+sys/types.h
+-
+sys/socket.h
+-
+netdb.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+string.h
+-
+stdio.h
+-
+iostream
+-
+
+/home/ivan/Projects/cpp_server/server.cpp
+server.h
+/home/ivan/Projects/cpp_server/server.h
+
+/home/ivan/Projects/cpp_server/server.h
+cool_sockets.h
+/home/ivan/Projects/cpp_server/cool_sockets.h
+unistd.h
+-
+

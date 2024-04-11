@@ -1,0 +1,3 @@
+/home/ivan/Projects/cpp_server/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/Projects/cpp_server/build/CMakeFiles/edit_cache.dir
+/home/ivan/Projects/cpp_server/build/CMakeFiles/server.dir
